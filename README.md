@@ -3,7 +3,7 @@
 
 My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 
-<!-- count starts -->6<!-- count ends --> TILs so far. 
+<!-- count starts -->8<!-- count ends --> TILs so far. 
 
 <!-- index starts -->
 ## virtualbox
@@ -23,5 +23,10 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 ## docker
 
 * [Misc Issues](https://github.com/dragon12/til/blob/master/docker/misc_issues.md) - 2020-05-09
+
+## ruby
+
+* [Simple Tips](https://github.com/dragon12/til/blob/master/ruby/rake_simple_tricks.md) - 2020-05-12
+* [Debugging tips](https://github.com/dragon12/til/blob/master/ruby/debugging.md) - 2020-05-12
 <!-- index ends -->
 
